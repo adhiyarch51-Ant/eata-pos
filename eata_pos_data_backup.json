@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-11-04T14:41:10.695Z",
+  "timestamp": "2026-11-04T15:05:07.777Z",
   "products": [
     {
       "id": 1,
       "name": "Original Coklat",
       "category": "Manis",
       "price": 5500,
-      "stock": 20,
+      "stock": 19,
       "img": "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?w=500&auto=format&fit=crop&q=80",
       "desc": "Soft sourdough dengan coklat bubuk dan chocochip",
       "ingredients": [
@@ -25,7 +25,7 @@
       "name": "Original Cranberry",
       "category": "Manis",
       "price": 6000,
-      "stock": 20,
+      "stock": 19,
       "img": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=500&auto=format&fit=crop&q=80",
       "desc": "Soft sourdough dengan cranberry dan chia seed",
       "ingredients": [
@@ -48,7 +48,7 @@
       "name": "Cranberry Cheese",
       "category": "Cheese",
       "price": 10000,
-      "stock": 20,
+      "stock": 18,
       "img": "https://images.unsplash.com/photo-1586444248902-2f64eddc13df?w=500&auto=format&fit=crop&q=80",
       "desc": "Soft sourdough dengan cranberry dan cream cheese",
       "ingredients": [
@@ -71,7 +71,7 @@
       "name": "Garlic Butter",
       "category": "Gurih",
       "price": 6500,
-      "stock": 20,
+      "stock": 19,
       "img": "https://images.unsplash.com/photo-1619535860434-ba1d8fa12536?w=500&auto=format&fit=crop&q=80",
       "desc": "Soft sourdough dengan topping butter, garlic dan parsley",
       "ingredients": [
@@ -90,7 +90,7 @@
       "name": "Cheese Smokebeef",
       "category": "Gurih",
       "price": 10000,
-      "stock": 20,
+      "stock": 19,
       "img": "https://images.unsplash.com/photo-1627308595229-7830a5c91f9f?w=500&auto=format&fit=crop&q=80",
       "desc": "Soft sourdough dengan isian smoke beef dan keju",
       "ingredients": [
@@ -109,7 +109,7 @@
       "name": "Double Choco",
       "category": "Manis",
       "price": 8000,
-      "stock": 20,
+      "stock": 19,
       "img": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500&auto=format&fit=crop&q=80",
       "desc": "Soft sourdough adonan coklat dengan isian selai coklat",
       "ingredients": [
@@ -254,7 +254,7 @@
     {
       "id": 101,
       "name": "Tepung Soft Sourdough",
-      "stock": 15000,
+      "stock": 14300,
       "minStock": 3000,
       "unit": "gram",
       "category": "Tepung & Ragi"
@@ -262,7 +262,7 @@
     {
       "id": 102,
       "name": "Cranberry Dried",
-      "stock": 2500,
+      "stock": 2440,
       "minStock": 500,
       "unit": "gram",
       "category": "Topping & Isian"
@@ -270,7 +270,7 @@
     {
       "id": 103,
       "name": "Chia Seeds",
-      "stock": 1200,
+      "stock": 1195,
       "minStock": 300,
       "unit": "gram",
       "category": "Topping"
@@ -278,7 +278,7 @@
     {
       "id": 104,
       "name": "Cream Cheese",
-      "stock": 3500,
+      "stock": 3410,
       "minStock": 800,
       "unit": "gram",
       "category": "Isian Keju"
@@ -286,7 +286,7 @@
     {
       "id": 105,
       "name": "Butter Parsley Garlic",
-      "stock": 2000,
+      "stock": 1975,
       "minStock": 400,
       "unit": "gram",
       "category": "Topping Gurih"
@@ -294,7 +294,7 @@
     {
       "id": 106,
       "name": "Coklat Chocochip Compound",
-      "stock": 4000,
+      "stock": 3930,
       "minStock": 1000,
       "unit": "gram",
       "category": "Coklat"
