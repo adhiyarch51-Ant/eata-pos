@@ -1,0 +1,320 @@
+{
+  "timestamp": "2026-11-04T14:22:04.983Z",
+  "products": [
+    {
+      "id": 1,
+      "name": "Original Coklat",
+      "category": "Manis",
+      "price": 5500,
+      "stock": 20,
+      "img": "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?w=500&auto=format&fit=crop&q=80",
+      "desc": "Soft sourdough dengan coklat bubuk dan chocochip",
+      "ingredients": [
+        {
+          "matId": 101,
+          "qty": 100
+        },
+        {
+          "matId": 106,
+          "qty": 25
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Original Cranberry",
+      "category": "Manis",
+      "price": 6000,
+      "stock": 20,
+      "img": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=500&auto=format&fit=crop&q=80",
+      "desc": "Soft sourdough dengan cranberry dan chia seed",
+      "ingredients": [
+        {
+          "matId": 101,
+          "qty": 100
+        },
+        {
+          "matId": 102,
+          "qty": 20
+        },
+        {
+          "matId": 103,
+          "qty": 5
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Cranberry Cheese",
+      "category": "Cheese",
+      "price": 10000,
+      "stock": 20,
+      "img": "https://images.unsplash.com/photo-1586444248902-2f64eddc13df?w=500&auto=format&fit=crop&q=80",
+      "desc": "Soft sourdough dengan cranberry dan cream cheese",
+      "ingredients": [
+        {
+          "matId": 101,
+          "qty": 100
+        },
+        {
+          "matId": 102,
+          "qty": 20
+        },
+        {
+          "matId": 104,
+          "qty": 30
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Garlic Butter",
+      "category": "Gurih",
+      "price": 6500,
+      "stock": 20,
+      "img": "https://images.unsplash.com/photo-1619535860434-ba1d8fa12536?w=500&auto=format&fit=crop&q=80",
+      "desc": "Soft sourdough dengan topping butter, garlic dan parsley",
+      "ingredients": [
+        {
+          "matId": 101,
+          "qty": 100
+        },
+        {
+          "matId": 105,
+          "qty": 25
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Cheese Smokebeef",
+      "category": "Gurih",
+      "price": 10000,
+      "stock": 20,
+      "img": "https://images.unsplash.com/photo-1627308595229-7830a5c91f9f?w=500&auto=format&fit=crop&q=80",
+      "desc": "Soft sourdough dengan isian smoke beef dan keju",
+      "ingredients": [
+        {
+          "matId": 101,
+          "qty": 100
+        },
+        {
+          "matId": 104,
+          "qty": 30
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Double Choco",
+      "category": "Manis",
+      "price": 8000,
+      "stock": 20,
+      "img": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500&auto=format&fit=crop&q=80",
+      "desc": "Soft sourdough adonan coklat dengan isian selai coklat",
+      "ingredients": [
+        {
+          "matId": 101,
+          "qty": 100
+        },
+        {
+          "matId": 106,
+          "qty": 45
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Creamcheese Blueberry",
+      "category": "Cheese",
+      "price": 10000,
+      "stock": 20,
+      "img": "https://images.unsplash.com/photo-1550617931-e17a7b70dce2?w=500&auto=format&fit=crop&q=80",
+      "desc": "Cream cheese, selai blueberry & crumble",
+      "ingredients": [
+        {
+          "matId": 101,
+          "qty": 100
+        },
+        {
+          "matId": 104,
+          "qty": 35
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Chococheese Twist",
+      "category": "Cheese",
+      "price": 9000,
+      "stock": 20,
+      "img": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=500&auto=format&fit=crop&q=80",
+      "desc": "Olesan butter, taburan chocochip dan keju",
+      "ingredients": [
+        {
+          "matId": 101,
+          "qty": 100
+        },
+        {
+          "matId": 104,
+          "qty": 20
+        },
+        {
+          "matId": 106,
+          "qty": 20
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Matcha Red Bean",
+      "category": "Matcha",
+      "price": 8000,
+      "stock": 20,
+      "img": "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?w=500&auto=format&fit=crop&q=80",
+      "desc": "Soft sourdough matcha dengan isian pasta kacang merah",
+      "ingredients": [
+        {
+          "matId": 101,
+          "qty": 100
+        },
+        {
+          "matId": 107,
+          "qty": 20
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Sosis Mayo",
+      "category": "Gurih",
+      "price": 8000,
+      "stock": 20,
+      "img": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=500&auto=format&fit=crop&q=80",
+      "desc": "Topping sosis, mayonese, saos tomat dan keju",
+      "ingredients": [
+        {
+          "matId": 101,
+          "qty": 100
+        },
+        {
+          "matId": 108,
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Choco Creamcheese",
+      "category": "Cheese",
+      "price": 10000,
+      "stock": 20,
+      "img": "https://images.unsplash.com/photo-1517433670267-08bbd4be890f?w=500&auto=format&fit=crop&q=80",
+      "desc": "Adonan coklat dengan isian creamcheese",
+      "ingredients": [
+        {
+          "matId": 101,
+          "qty": 100
+        },
+        {
+          "matId": 104,
+          "qty": 25
+        },
+        {
+          "matId": 106,
+          "qty": 20
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Matcha Cream Cheese",
+      "category": "Matcha",
+      "price": 10000,
+      "stock": 20,
+      "img": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=500&auto=format&fit=crop&q=80",
+      "desc": "Adonan matcha dengan isian creamcheese",
+      "ingredients": [
+        {
+          "matId": 101,
+          "qty": 100
+        },
+        {
+          "matId": 104,
+          "qty": 30
+        },
+        {
+          "matId": 107,
+          "qty": 15
+        }
+      ]
+    }
+  ],
+  "rawMaterials": [
+    {
+      "id": 101,
+      "name": "Tepung Soft Sourdough",
+      "stock": 15000,
+      "minStock": 3000,
+      "unit": "gram",
+      "category": "Tepung & Ragi"
+    },
+    {
+      "id": 102,
+      "name": "Cranberry Dried",
+      "stock": 2500,
+      "minStock": 500,
+      "unit": "gram",
+      "category": "Topping & Isian"
+    },
+    {
+      "id": 103,
+      "name": "Chia Seeds",
+      "stock": 1200,
+      "minStock": 300,
+      "unit": "gram",
+      "category": "Topping"
+    },
+    {
+      "id": 104,
+      "name": "Cream Cheese",
+      "stock": 3500,
+      "minStock": 800,
+      "unit": "gram",
+      "category": "Isian Keju"
+    },
+    {
+      "id": 105,
+      "name": "Butter Parsley Garlic",
+      "stock": 2000,
+      "minStock": 400,
+      "unit": "gram",
+      "category": "Topping Gurih"
+    },
+    {
+      "id": 106,
+      "name": "Coklat Chocochip Compound",
+      "stock": 4000,
+      "minStock": 1000,
+      "unit": "gram",
+      "category": "Coklat"
+    },
+    {
+      "id": 107,
+      "name": "Matcha Powder Premium",
+      "stock": 1500,
+      "minStock": 300,
+      "unit": "gram",
+      "category": "Matcha"
+    },
+    {
+      "id": 108,
+      "name": "Sosis Mayo Cheedar",
+      "stock": 50,
+      "minStock": 10,
+      "unit": "pcs",
+      "category": "Topping Gurih"
+    }
+  ],
+  "transactions": []
+}
